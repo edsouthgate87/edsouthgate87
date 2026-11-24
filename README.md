@@ -1,4 +1,4 @@
-# Hi, I’m Ed
+# Hi, I’m Ed — Principal Developer
 
 I build practical software, with an interest in backend systems, real-time collaboration, and self-hosted applications. My recent projects include:
 
